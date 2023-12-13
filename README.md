@@ -1,6 +1,6 @@
-Welcome to the **ML Algorithms**! 🚀
+Welcome to the **ml_hamza.h**! 🚀
 
-This repository is your gateway to the fascinating world of _Machine Learning algorithms_. Whether you're a **beginner**, an **enthusiast**, or a **seasoned data scientist**, this repository has something to offer for everyone.
+This repository is your gateway to the fascinating world of _Machine Learning algorithms_. Whether you're a **beginner**, an **enthusiast**, or a **seasoned data scientist**, this repository made everything from scratch to how it works and implemented by maths.
 
 **What's Inside:**
 
